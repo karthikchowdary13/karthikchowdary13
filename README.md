@@ -29,8 +29,6 @@ Aspiring **Full-Stack Software Engineer** with expertise in designing, building,
 Passionate about **system design**, **performance optimization**, and **engineering excellence**. Demonstrated ability to architect and deploy complete full-stack solutions independently, from frontend UI to cloud backend infrastructure. Strong foundation in **Computer Science fundamentals**, **competitive programming**, and **rapid prototyping** under pressure.
 
 ### 💼 Open To
-- **Full-Time SDE Roles** (Mid/Senior Level)
-- **Backend Engineering** positions
 - **Full-Stack Development** opportunities
 - **Cloud Architecture** projects
 - **Open Source Contributions**
@@ -43,7 +41,6 @@ Passionate about **system design**, **performance optimization**, and **engineer
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=java&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
 ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
 ![SQL](https://img.shields.io/badge/SQL-CC2927?style=flat-square&logo=microsoft-sql-server&logoColor=white)
 
 ### Frontend
