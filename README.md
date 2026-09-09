@@ -11,7 +11,6 @@
 [![Linkedin](https://img.shields.io/badge/Linkedin-0077B5?style=for-the-badge&logo=linkedin&logoColor=white&link=https://linkedin.com/in/karthik-ethamukkala)](https://linkedin.com/in/karthik-ethamukkala)
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white&link=mailto:karthikchowdary1315@gmail.com)](mailto:karthikchowdary1315@gmail.com)
 [![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/karthikchowdary)
-[![Phone](https://img.shields.io/badge/Phone-+91%208790339472-purple?style=for-the-badge&logo=phonepe&logoColor=white)](tel:+918790339472)
 
 [![Profile Views](https://komarev.com/ghpvc/?username=karthikchowdary&color=A78BFA&style=flat-square)](https://github.com/karthikchowdary)
 ![GitHub Followers](https://img.shields.io/github/followers/karthikchowdary?style=flat-square&color=A78BFA)
