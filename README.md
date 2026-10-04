@@ -290,7 +290,6 @@ Open To:
 [![Email](https://img.shields.io/badge/Email-karthikethamukkala4@gmail.com-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:karthikethamukkala4@gmail.com)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=flat-square&logo=linkedin&logoColor=white)](https://linkedin.com/in/karthik-ethamukkala)
 [![GitHub](https://img.shields.io/badge/GitHub-Follow-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/karthikchowdary)
-[![Phone](https://img.shields.io/badge/Phone-+91%208790339472-purple?style=flat-square&logo=phonepe&logoColor=white)](tel:+918790339472)
 
 </div>
 
