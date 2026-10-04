@@ -10,7 +10,7 @@
 
 [![Linkedin](https://img.shields.io/badge/Linkedin-0077B5?style=for-the-badge&logo=linkedin&logoColor=white&link=https://linkedin.com/in/karthik-ethamukkala)](https://linkedin.com/in/karthik-ethamukkala)
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white&link=mailto:karthikchowdary1315@gmail.com)](mailto:karthikchowdary1315@gmail.com)
-[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/karthikchowdary)
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/karthikchowdary13)
 
 [![Profile Views](https://komarev.com/ghpvc/?username=karthikchowdary&color=A78BFA&style=flat-square)](https://github.com/karthikchowdary)
 ![GitHub Followers](https://img.shields.io/github/followers/karthikchowdary?style=flat-square&color=A78BFA)
@@ -289,7 +289,7 @@ Open To:
 
 [![Email](https://img.shields.io/badge/Email-karthikethamukkala4@gmail.com-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:karthikethamukkala4@gmail.com)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=flat-square&logo=linkedin&logoColor=white)](https://linkedin.com/in/karthik-ethamukkala)
-[![GitHub](https://img.shields.io/badge/GitHub-Follow-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/karthikchowdary)
+[![GitHub](https://img.shields.io/badge/GitHub-Follow-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/karthikchowdary13)
 
 </div>
 
